@@ -9,3 +9,4 @@ __pycache__/
 dist/
 build/
 .DS_Store
+xgboost_nikki/xgb_data/train_ft.csv
